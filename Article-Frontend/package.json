@@ -1,0 +1,27 @@
+{
+  "name": "article-frontend",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.6",
+    "axios": "^1.2.0",
+    "bootstrap": "^5.2.3",
+    "bootstrap-icons": "^1.10.2",
+    "jquery": "^3.6.1",
+    "laravel-vue-form-validator": "^0.2.1",
+    "laravel-vue-pagination": "^4.0.0",
+    "moment": "^2.29.4",
+    "popper.js": "^1.16.1",
+    "vue": "^3.0.4",
+    "vue-route": "^1.5.1",
+    "vue-router": "^4.0.13"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^6.2.1",
+    "@vue/compiler-sfc": "^3.0.4",
+    "vite": "^1.0.0-rc.13"
+  }
+}
